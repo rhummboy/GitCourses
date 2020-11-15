@@ -1,7 +1,7 @@
 # $ git config --global user.name "John Doe"
 # $ git config --global user.email johndoe@example.com
 # On paramètre notre identity 
-# $ git config --global core.editor emacs (set an editor, default is vim
+# $ git config --global core.editor emacs (set an editor, default is vim)
 # $ git config --global init.defaultBranch main (default is now main instead of master
 # $ git config --list (check your config)
 # Votre config git global est persisté dans le fichier ~/.gitconfig
