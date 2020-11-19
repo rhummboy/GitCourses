@@ -20,3 +20,4 @@ A chaque fois, écrire la ligne de commande demandée:
 16. Récupérer votre stash
 17. Supprimer un commit
 18. Effectuer un commit de fixup
+19. Modifier la premier et dernière ligne d'un fichier & commiter uniquement la première avec un commit partiel

@@ -10,6 +10,8 @@ Rebase interactive -> Réecrire son historique
 # Git pull -r vs git pull
 Quel est la différence ?
 
+# git add -p
+Commit partiel ?
 
 # Git Stash
 # On stash
